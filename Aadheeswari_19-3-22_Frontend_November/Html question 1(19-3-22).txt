@@ -1,0 +1,5 @@
+1) Is it possible to change the color of the bullet?
+
+
+       => The color of the bullet is always the color of the first text of the list. 
+       => So, if you want to change the color of the bullet, you must change the color of the text.

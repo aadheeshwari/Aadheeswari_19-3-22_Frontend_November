@@ -1,0 +1,6 @@
+3) What is a marquee?
+
+
+     => Marquee is used to put the scrolling text on a web page. 
+     => It scrolls the image or text up, down, left or right automatically. 
+     => You should put the text which you want to scroll within the <marquee>......</marquee> tag.

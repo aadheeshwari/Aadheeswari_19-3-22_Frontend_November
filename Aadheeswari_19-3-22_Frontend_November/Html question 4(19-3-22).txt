@@ -1,0 +1,6 @@
+4) Can you create a multi-colored text on a web page?
+
+
+      => Yes. 
+      => To create a multicolor text on a web page you can use <font color ="color"> </font> for the specific texts you 
+want to color.

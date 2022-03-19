@@ -1,0 +1,14 @@
+2) Explain the layout of HTML?
+
+
+       => Every website has a specific layout to display content in a specific manner.
+       => Following are different HTML5 elements which are used to define the different parts of a webpage.
+
+For Example:-
+       
+       => <header>: It is used to define a header for a document or a section.
+       => <nav>: It is used to define a container for navigation links
+       => <section>: It is used to define a section in a document
+       => <article>: It is used to define an independent, self-contained article
+       => <aside>: It is used to define content aside from the content (like a sidebar)
+       => <footer>: It is used to define a footer for a document or a section
